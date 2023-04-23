@@ -1,0 +1,11 @@
+libraries:
+- electron
+- axum (done)
+- graphql (done)
+- sqlx
+- sqlite
+- async-backtrace
+- tokio (done)
+- leptos
+- tailwind-css
+- oso? (auth)
